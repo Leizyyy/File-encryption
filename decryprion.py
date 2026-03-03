@@ -43,7 +43,7 @@ def walking_by_dirs(dir, password):
             
             
 password = input("Введите пароль для дешифрования: ")
-walking_by_dirs("C:/Users/kaxam/Desktop/project/python/File encryption/test", password)
+walking_by_dirs("Путь_к_Директорией", password)
 #os.remove(str(sys.argv[0]))
             
             
